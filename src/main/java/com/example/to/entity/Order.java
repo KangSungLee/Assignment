@@ -21,4 +21,5 @@ public class Order {
 	private int tid;
 	private int totalPrice;
 	private LocalDateTime regDate;
+	private String status;
 }
